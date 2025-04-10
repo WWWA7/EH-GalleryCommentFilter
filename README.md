@@ -11,7 +11,7 @@
 1. 首先安装用户脚本管理器：
    - [Tampermonkey](https://www.tampermonkey.net/) (推荐)  
    - [Violentmonkey](https://violentmonkey.github.io/)  
-2. [点此进入脚本页]([https://www.tampermonkey.net/](https://github.com/WWWA7/EH-GalleryCommentFilter/blob/main/EH%20Gallery%20Comment%20Filter-1.0.user.js))  
+2. [点此进入脚本页](https://github.com/WWWA7/EH-GalleryCommentFilter/blob/main/EH%20Gallery%20Comment%20Filter-1.0.user.js)  
 3. 点击脚本页面的"Raw"按钮安装  
 4. 刷新 E-Hentai/ExHentai 页面  
 
