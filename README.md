@@ -1,6 +1,6 @@
-# EH Gallery 评论过滤器
+# EH Gallery 评论过滤器（EH黑名单）
 
-一款用于过滤 E-Hentai/ExHentai 画廊页面评论的用户脚本。
+一款用于过滤 E-Hentai/ExHentai 画廊页面评论的用户脚本（黑名单，屏蔽评论）。  
 
 ## 功能
 - 隐藏指定用户的评论
